@@ -22,10 +22,10 @@ This project is a Python-based automated cryptocurrency data analysis tool. It c
    git clone https://github.com/YaseenTheAnalyst/Automate-API-Extraction)https://github.com/YaseenTheAnalyst/Automate-API-Extraction
    cd Automate-API-Extraction
 
-## Project Structure
-- your_script_name.py: Main Python script for cryptocurrency data analysis.
-- api2.csv: CSV file containing collected cryptocurrency data.
-- requirements.txt: List of project dependencies.
+## Requirements
+- Python 3.x
+- Jupyter Notebooks
+
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
